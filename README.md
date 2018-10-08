@@ -1,5 +1,2 @@
 # algorithm
-https://rvtugr7p.mirror.aliyuncs.com
-ec2-54-64-37-184.ap-northeast-1.compute.amazonaws.com
-zt0928,./
-8388
+ec2-13-125-245-217.ap-northeast-2.compute.amazonaws.com
